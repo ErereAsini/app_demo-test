@@ -1,0 +1,5 @@
+/root/my-app-game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Cell.java
+/root/my-app-game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/GridWriter.java
+/root/my-app-game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Universe.java
+/root/my-app-game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Grid.java
+/root/my-app-game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/GridReader.java

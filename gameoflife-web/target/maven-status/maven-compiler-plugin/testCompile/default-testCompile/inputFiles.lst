@@ -1,0 +1,3 @@
+/root/my-app-game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenCreatingANewGame.java
+/root/my-app-game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenSpawningANewGeneration.java
+/root/my-app-game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenDisplayingTheHomePage.java
